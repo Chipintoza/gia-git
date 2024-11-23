@@ -1,3 +1,5 @@
 Hello Nino Vano Zaza
 
 ეს არის უმნიშვნელო ტექსტი რომელიც ქართულადაა დაწერილი
+
+zaza made a commit
